@@ -1,0 +1,38 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Fruit Import Export</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      text-align: center;
+      padding: 2rem;
+    }
+    img {
+      max-width: 200px;
+      border-radius: 50%;
+      margin: 1rem auto;
+    }
+    .contact {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Global Fruit Import Export</h1>
+  <img src="poza-ta.jpg" alt="Poza Milos">
+  <div class="contact">
+    <p><strong>Telefon:</strong> 0784 039 807</p>
+    <p><strong>Email:</strong> <a href="mailto:isis.romania@yahoo.com">isis.romania@yahoo.com</a></p>
+    <p><strong>Locație:</strong> București, România</p>
+  </div>
+</body>
+</html>
+
